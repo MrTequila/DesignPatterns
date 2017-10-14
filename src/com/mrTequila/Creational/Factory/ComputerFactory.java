@@ -1,4 +1,4 @@
-package com.mrTequila.Factory;
+package com.mrTequila.Creational.Factory;
 
 public class ComputerFactory {
 

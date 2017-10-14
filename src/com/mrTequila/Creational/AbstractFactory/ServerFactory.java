@@ -1,4 +1,4 @@
-package com.mrTequila.AbstractFactory;
+package com.mrTequila.Creational.AbstractFactory;
 
 public class ServerFactory implements ComputerAbstractFactory {
 

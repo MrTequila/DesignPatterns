@@ -1,4 +1,4 @@
-package com.mrTequila.Singleton;
+package com.mrTequila.Creational.Singleton;
 
 public class StaticBlockSingleton {
 

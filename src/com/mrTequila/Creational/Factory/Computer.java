@@ -1,4 +1,4 @@
-package com.mrTequila.Factory;
+package com.mrTequila.Creational.Factory;
 
 public abstract class Computer {
 

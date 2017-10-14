@@ -1,4 +1,4 @@
-package com.mrTequila.Singleton;
+package com.mrTequila.Creational.Singleton;
 
 // more efficient way of initializing safe with multithreaded apps
 public class BillPughSingleton {

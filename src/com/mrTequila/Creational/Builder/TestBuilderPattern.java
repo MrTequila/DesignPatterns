@@ -1,4 +1,4 @@
-package com.mrTequila.Builder;
+package com.mrTequila.Creational.Builder;
 
 public class TestBuilderPattern {
 
